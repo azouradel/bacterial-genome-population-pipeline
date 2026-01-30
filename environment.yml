@@ -1,0 +1,11 @@
+name: genome_pipeline
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - fastani
+  - blast
+  - prokka
+  - panaroo
+  - python
+  - r-base
