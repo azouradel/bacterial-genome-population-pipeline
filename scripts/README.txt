@@ -1,0 +1,2 @@
+example_data/example_genome.fna
+example_output/example_results.csv
